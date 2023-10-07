@@ -1,0 +1,43 @@
+.main {
+    background-color: khaki;
+    padding: 10px;
+}
+
+.sub {
+    background-color: coral;
+    color: white;
+    border: 5px double white;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    background-color: gray;
+    border: 2px solid black;
+
+}
+
+td {
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    padding: 10px;
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+    width: 25%;
+    font-weight: bold;
+}
+
+input:hover {
+    box-shadow: 10px 10px 10px lightyellow;
+}
+
+button {
+    padding: 10px;
+    font-weight: bold;
+}
